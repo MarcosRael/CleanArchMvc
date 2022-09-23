@@ -8,10 +8,8 @@ using CleanArchMvc.Domain.Validation;
 
 namespace CleanArchMvc.Domain.Entities
 {
-  public sealed class Category
+  public sealed class Category : Entity
   {
-    public int Id { get; private set; }
-
     public string Name { get; private set; }
 
     public Category(string name)
@@ -26,6 +24,11 @@ namespace CleanArchMvc.Domain.Entities
 
       Id = id;
       Name = name;
+    }
+
+    public void Update(string name)
+    {
+      validateDomain(name);
     }
 
     private void validateDomain(string name)
