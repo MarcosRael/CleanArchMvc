@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WjW5XOymuCMO7MnUaYwS04mwaRC6j39BlfnE04ZJxhTlNUMedZPadALCKojvahsGMf208obKrDQz5fnSeVP9DA==",
+  "dgSpecHash": "mnyaEcMOv19uoWVDkrO53q5NqmQ1V4xg0FS8SGuA9etAV1VhIVPdB0A5hZ3SUEwys+3s/s4Xy4soMe/dzktksQ==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Clean Architecture Essencial - ASP .NET Core\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [

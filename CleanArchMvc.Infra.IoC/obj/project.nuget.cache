@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9eDowt6+wDQM+5FmxdAsvxKQDmaMn4cxeDgzyxFmcI8kYixRFG/5LNQJdpORNMkm+5M52CWJ3/9p35r2aa2FBw==",
+  "dgSpecHash": "YBhVM+fKHPhESA28mKrlbK7qbX8eAdBap5AOK71riTJV6b0LBTSXB3XS2NWm853INuBKZSh5Mi0Fq2BR/vbwTg==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Clean Architecture Essencial - ASP .NET Core\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [],

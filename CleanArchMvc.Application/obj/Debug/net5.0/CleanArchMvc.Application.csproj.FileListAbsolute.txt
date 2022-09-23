@@ -10,3 +10,6 @@ C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\refint\CleanArchMvc.Application.dll
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CopyComplete
