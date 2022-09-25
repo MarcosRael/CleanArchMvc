@@ -61,7 +61,7 @@ namespace CleanArchMvc.Domain.Entities
       DomainExceptionValid.When(stock < 0,
           "Invalid stock value.");
 
-      DomainExceptionValid.When(image.Length > 250,
+      DomainExceptionValid.When(image?.Length > 250,
           "Invalid image name, too long, maximum 250 characters.");
 
       Name = name;

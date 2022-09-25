@@ -361,4 +361,4 @@ C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
-C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\refint\CleanArchMvc.WebUI.dll
