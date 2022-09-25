@@ -1,7 +1,6 @@
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.deps.json
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.dll
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
-C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfo.cs
@@ -9,4 +8,5 @@ C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.dll
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\ref\CleanArchMvc.Domain.dll
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.pdb
-C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\refint\CleanArchMvc.Domain.dll
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\ref\CleanArchMvc.Domain.dll
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache

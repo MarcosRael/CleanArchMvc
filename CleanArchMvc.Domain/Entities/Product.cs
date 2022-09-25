@@ -7,7 +7,7 @@ using CleanArchMvc.Domain.Validation;
 
 namespace CleanArchMvc.Domain.Entities
 {
-  public sealed class Product:Entity
+  public sealed class Product : Entity
   {
     public string Name { get; private set; }
 
@@ -27,7 +27,7 @@ namespace CleanArchMvc.Domain.Entities
     public Product(int id, string name, string description, decimal price, int stock, string image)
     {
 
-      DomainExceptionValid.When(id < 0, "Invalid Id value");
+      DomainExceptionValid.When(id < 0, "Invalid Id value.");
       Id = id;
 
       ValidateDomain(name, description, price, stock, image);
@@ -44,25 +44,25 @@ namespace CleanArchMvc.Domain.Entities
     {
 
       DomainExceptionValid.When(string.IsNullOrEmpty(name),
-         "Invalid name. Name is required");
+         "Invalid name. Name is required.");
 
       DomainExceptionValid.When(name.Length < 3,
-          "Invalid name, too short, minimum 3 characters");
+          "Invalid name, too short, minimum 3 characters.");
 
       DomainExceptionValid.When(string.IsNullOrEmpty(description),
-          "Invalid description. Description is required");
+          "Invalid description. Description is required.");
 
       DomainExceptionValid.When(description.Length < 5,
-          "Invalid description, too short, minimum 5 characters");
+          "Invalid description, too short, minimum 5 characters.");
 
       DomainExceptionValid.When(price < 0,
-          "Invalid price value");
+          "Invalid price value.");
 
       DomainExceptionValid.When(stock < 0,
-          "Invalid stock value");
+          "Invalid stock value.");
 
       DomainExceptionValid.When(image.Length > 250,
-          "Invalid image name, too long, maximum 250 characters");
+          "Invalid image name, too long, maximum 250 characters.");
 
       Name = name;
       Description = description;

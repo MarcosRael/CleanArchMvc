@@ -7,7 +7,6 @@ C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
-C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\refint\CleanArchMvc.Infra.IoC.dll
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
@@ -17,3 +16,4 @@ C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
+C:\Cursos\Clean Architecture Essencial - ASP .NET Core\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
